@@ -3,3 +3,5 @@ Esta es la historia de como crear un repositorio de Git
 Bryan Rubi Cirilo
 
 Vamos a eliminar algo
+
+Agregamos otra linea
